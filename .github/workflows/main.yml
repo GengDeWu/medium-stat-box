@@ -17,3 +17,4 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           MEDIUM_USER_NAME: ${{ secrets.MEDIUM_USER_NAME }}
           GIST_ID: ${{ secrets.GIST_ID }}
+          
